@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_of_star">60dp</dimen>
+    <dimen name="textViewPlay_width">60dp</dimen>
+    <dimen name="textViewPlay_height">60dp</dimen>
+    <dimen name="imageViewAddToFavourite_width">40dp</dimen>
+    <dimen name="imageViewAddToFavourite_height">40dp</dimen>
+</resources>
